@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jan! <br/><a 
  </a></h1>
 
-<h2>👨‍💻 Cybersecurity/IT Projects:</h2>
+<h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/JanGuiao/ActiveDirectoryLab) 
 
