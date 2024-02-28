@@ -5,23 +5,16 @@
 
 - [Active Directory Home Lab](https://github.com/JanGuiao/ActiveDirectoryLab) 
 
+<h2> Certificates/Certifications</h2>
 
-
--
-
-<h2> Certifications</h2>
+- IT Professional+, Montgomery College, May 2022
+- Cloud Computing and System Administrator, Montgomery College, May 2022
 
 
 <h2> 🤳 Connect with me:</h2>
 
 
+- 🔭 I’m currently working on my Security+!
+- 🌱 I’m currently learning Cybersecurity Technology
+- 😄 Pronouns: he/him
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
