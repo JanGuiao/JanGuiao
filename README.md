@@ -3,7 +3,8 @@
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/JanGuiao/ActiveDirectoryLab) 
+- [Active Directory Home Lab](https://github.com/JanGuiao/ActiveDirectoryLab)
+- [Minecraft Pi](https://github.com/JanGuiao/Minecraft-Pi/tree/master)
 
 <h2> Certificates/Certifications</h2>
 
