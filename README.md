@@ -17,5 +17,5 @@
 <h2> 🤳 Connect with me:</h2>
 
 <h2> Education & Beyond </h2>
-- Enrolled at University of Maryland Global Campus (UMGC) 
-- 🔭 I’m currently working on my Security+!
+- Enrolled at University of Maryland Global Campus (UMGC) <br>
+- 🔭 I’m currently working on my Security+! <br>
