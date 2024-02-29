@@ -2,6 +2,7 @@
  </a></h1>
 
 <h2>👨‍💻 Fun IT/Cybersecurity Projects:</h2>
+
 - [SIEM in Microsoft Azure (Sentinel)]
 - [Active Directory Home Lab](https://github.com/JanGuiao/ActiveDirectoryLab)
 - [File System Watcher](https://github.com/JanGuiao/FileSystemWatcher)
