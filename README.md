@@ -14,8 +14,6 @@
 - Cloud Computing and System Administrator, Montgomery College, May 2022
 
 
-<h2> 🤳 Connect with me:</h2>
-
 <h2> Education & Beyond </h2>
 - Enrolled at University of Maryland Global Campus (UMGC) <br>
 - 🔭 I’m currently working on my Security+! <br>
