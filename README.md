@@ -10,8 +10,8 @@
 
 <h2> Certificates/Certifications</h2>
 
-- IT Professional+, Montgomery College, May 2022
-- Cloud Computing and System Administrator, Montgomery College, May 2022
+- IT Professional+, Montgomery College, May 2022 (Certificate) 
+- Cloud Computing and System Administrator, Montgomery College, May 2022 (Certificate)
 
 
 <h2> Education & Beyond </h2>
