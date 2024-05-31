@@ -16,4 +16,4 @@
 
 <h2> Education & Beyond </h2>
 - Enrolled at University of Maryland Global Campus (UMGC) <br>
-- I’m currently working on my Security+! <br>
+- I have obtained my Security+ (701)! <br>
