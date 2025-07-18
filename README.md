@@ -14,5 +14,5 @@
 
 
 <h2> Education & Beyond </h2>
-- Enrolled at University of Maryland Global Campus (UMGC) <br>
+- Graduated  <br>
 
