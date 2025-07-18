@@ -10,10 +10,9 @@
 
 <h2> Certificates/Certifications</h2>
 
-- IT Professional+, Montgomery College, May 2022 (Certificate) 
-- Cloud Computing and System Administrator, Montgomery College, May 2022 (Certificate)
+- CompTIA Security+ (Sy0-701) 
 
 
 <h2> Education & Beyond </h2>
 - Enrolled at University of Maryland Global Campus (UMGC) <br>
-- I have obtained my Security+ (701)! <br>
+
