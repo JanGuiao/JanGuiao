@@ -14,5 +14,6 @@
 
 
 <h2> Education & Beyond </h2>
-- Graduated  <br>
+- Graduated @ University of Maryland Global Campus (UMGC) 
+* Cybersecurity Technology <br>
 
